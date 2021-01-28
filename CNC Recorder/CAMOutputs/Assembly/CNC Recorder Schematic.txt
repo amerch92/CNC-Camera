@@ -1,0 +1,7 @@
+Partlist exported from /Users/amerch/Documents/EAGLE/projects/CNC Recorder/CNC Recorder Schematic.sch at 1/19/21 9:29 AM
+
+Qty Value              Device             Package           Parts            Description                               
+1   1                  EG1218S            EG1218            S1               SLIDING SWITCH                            
+3   1K                 R-US_0207/10       0207/10           R1, R2, R3       RESISTOR, American symbol                 
+3   3.3V               LED5MM             LED5MM            LED1, LED2, LED3 LED                                       
+1   RASPI_GPIO_AB#_PIN RASPI_GPIO_AB#_PIN RASPI_GPIO_AB_PIN X1               2x13 header connector, all pins connected 
